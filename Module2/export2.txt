@@ -1,0 +1,53 @@
+STUDENT_ID	STUDENT_NAME	DEPT_ID	DEPT_NAME	SUBJECT1	SUBJECT2	SUBJECT3	SUBJECT4	SUBJECT5	TOTAL	AVERAGE	RESULT1
+1	Arjun	D4	B.E. Electrical and Electronics Engineering	50	70	60	30	80	290	58	FAIL
+2	Banu	D8	B.E. Mechatronics Engineering	51	71	61	31	81	295	59	FAIL
+3	Chris	D5	B.E. Electronics and Communication Engineering	52	72	62	32	82	300	60	FAIL
+4	Albert	D10	B.Tech. Fashion Technology	53	73	63	33	83	305	61	FAIL
+5	Swetha	D23	M.Tech. Textile Technology	54	74	64	34	84	310	62	FAIL
+6	Thanu	D2	B.E. Civil Engineering	55	75	65	35	85	315	63	FAIL
+7	Venu	D19	M.E. Power Electronics and Drives	56	76	66	36	86	320	64	FAIL
+8	Ravi	D3	B.E. Computer Science and Engineering	57	77	67	37	87	325	65	FAIL
+9	Ashu	D5	B.E. Electronics and Communication Engineering	58	78	68	38	88	330	66	FAIL
+10	Sanchu	D15	M.E. Communication Systems	59	79	69	39	89	335	67	FAIL
+11	Kavya	D10	B.Tech. Fashion Technology	60	80	70	50	30	290	58	FAIL
+12	Madhu	D9	B.Tech. Bio Technology	61	81	71	51	31	295	59	FAIL
+13	Deb	D23	M.Tech. Textile Technology	62	82	72	52	32	300	60	FAIL
+14	Arin	D13	M.E. Applied Electronics	63	83	73	53	33	305	61	FAIL
+15	Saurav	D11	B.Tech. Information Technology	64	84	74	54	34	310	62	FAIL
+16	Naina	D5	B.E. Electronics and Communication Engineering	65	85	75	55	35	315	63	FAIL
+17	Harsh	D3	B.E. Computer Science and Engineering	66	86	76	56	36	320	64	FAIL
+18	Aditi	D11	B.Tech. Information Technology	67	87	77	57	37	325	65	FAIL
+19	Sanju	D16	M.E. Computer Science and Engineering	68	88	78	58	38	330	66	FAIL
+20	Sam	D4	B.E. Electrical and Electronics Engineering	69	89	79	70	54	361	72	PASS
+21	Colin	D8	B.E. Mechatronics Engineering	70	90	80	71	55	366	73	PASS
+22	Corey	D2	B.E. Civil Engineering	71	91	81	72	56	371	74	PASS
+23	Thyme	D7	B.E. Mechanical Engineering	72	92	82	73	57	376	75	PASS
+24	Ren	D21	M.Tech. Apparel Technology & Management	73	93	83	74	58	381	76	PASS
+25	Roger	D16	M.E. Computer Science and Engineering	74	94	84	75	59	386	77	PASS
+26	Ram	D21	M.Tech. Apparel Technology & Management	75	95	85	76	60	391	78	PASS
+27	Aakash	D3	B.E. Computer Science and Engineering	76	96	86	77	61	396	79	PASS
+28	Gorya	D7	B.E. Mechanical Engineering	77	97	87	78	62	401	80	PASS
+29	Bill	D4	B.E. Electrical and Electronics Engineering	78	98	88	79	63	406	81	PASS
+30	Emma	D19	M.E. Power Electronics and Drives	79	99	89	80	64	411	82	PASS
+31	Kanin	D7	B.E. Mechanical Engineering	80	45	90	81	65	361	72	FAIL
+32	Roop	D1	B.E. Aeronautical Engineering	81	46	91	82	66	366	73	FAIL
+33	Ned	D2	B.E. Civil Engineering	82	47	92	83	67	371	74	FAIL
+34	Starly	D12	B.Tech. Textile Technology	83	48	93	84	68	376	75	FAIL
+35	Mia	D15	M.E. Communication Systems	84	49	94	85	69	381	76	FAIL
+36	Jay	D8	B.E. Mechatronics Engineering	85	50	95	86	70	386	77	PASS
+37	Gru	D3	B.E. Computer Science and Engineering	86	51	96	87	71	391	78	PASS
+38	Ron	D5	B.E. Electronics and Communication Engineering	87	52	97	88	72	396	79	PASS
+39	Barkha	D23	M.Tech. Textile Technology	88	53	98	89	73	401	80	PASS
+40	Neil	D6	B.E. Electronics and Instrumentation Engineering	90	45	67	57	58	317	63	FAIL
+41	John	D14	M.E. CAD/CAM Engineering	70	60	68	89	59	346	69	PASS
+42	Ken	D17	M.E. Energy Engineering	96	69	76	69	67	377	75	PASS
+43	Mitsy	D20	M.E. Structural Engineering	90	58	67	89	90	394	79	PASS
+44	Jay	D22	M.Tech. Bio-Technology	47	78	77	57	90	349	70	FAIL
+45	Gloria	D23	M.Tech. Textile Technology	90	80	78	68	95	411	82	PASS
+46	Mont	D6	B.E. Electronics and Instrumentation Engineering	89	57	78	79	90	393	79	PASS
+47	Kurt	D17	M.E. Energy Engineering	95	69	95	68	59	386	77	PASS
+48	Bael	D14	M.E. CAD/CAM Engineering	79	80	83	76	85	403	81	PASS
+49	Bella	D20	M.E. Structural Engineering	78	68	94	78	95	413	83	PASS
+50	Dua	D22	M.Tech. Bio-Technology	48	49	60	70	90	317	63	FAIL
+51	Sia	D18	M.E. Industrial Engineering	86	46	78	34	97	341	68	FAIL
+52	Pam	D18	M.E. Industrial Engineering	83	56	64	56	54	313	63	PASS

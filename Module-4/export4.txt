@@ -1,0 +1,24 @@
+DEPT_ID	DEPT_NAME	SUBJECT1_AVERAGE	SUBJECT2_AVERAGE	SUBJECT3_AVERAGE	SUBJECT4_AVERAGE	SUBJECT5_AVERAGE
+D1	B.E. Aeronautical Engineering	81	46	91	82	66
+D10	B.Tech. Fashion Technology	57	77	67	42	57
+D11	B.Tech. Information Technology	66	86	76	56	36
+D12	B.Tech. Textile Technology	83	48	93	84	68
+D13	M.E. Applied Electronics	63	83	73	53	33
+D14	M.E. CAD/CAM Engineering	75	70	76	83	72
+D15	M.E. Communication Systems	72	64	82	62	79
+D16	M.E. Computer Science and Engineering	71	91	81	67	49
+D17	M.E. Energy Engineering	96	69	86	69	63
+D18	M.E. Industrial Engineering	85	51	71	45	76
+D19	M.E. Power Electronics and Drives	68	88	78	58	75
+D2	B.E. Civil Engineering	69	71	79	63	69
+D20	M.E. Structural Engineering	84	63	81	84	93
+D21	M.Tech. Apparel Technology & Management	74	94	84	75	59
+D22	M.Tech. Bio-Technology	48	64	69	64	90
+D23	M.Tech. Textile Technology	74	72	78	61	71
+D3	B.E. Computer Science and Engineering	71	78	81	64	64
+D4	B.E. Electrical and Electronics Engineering	66	86	76	60	66
+D5	B.E. Electronics and Communication Engineering	66	72	76	53	69
+D6	B.E. Electronics and Instrumentation Engineering	90	51	73	68	74
+D7	B.E. Mechanical Engineering	76	78	86	77	61
+D8	B.E. Mechatronics Engineering	69	70	79	63	69
+D9	B.Tech. Bio Technology	61	81	71	51	31

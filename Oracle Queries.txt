@@ -1,0 +1,43 @@
+1- 
+Create table Department_Dimension(
+Dept_ID(20),
+Dept_Name(50);
+
+2-
+create table Student_Dimension(
+Student_ID decimal(20),
+Student_name varchar(20),
+Dept_ID varchar(10),
+Address varchar(10),
+Postal_code varchar(10),
+Phone_Number varchar(20));
+
+3-
+create table Marks_fact1(
+Student_ID decimal(20),
+Student_name varchar(20),
+Dept_ID varchar(10),
+Dept_Name varchar(20),
+Subject1 decimal(3),Subject2 decimal(3),
+Subject3 decimal(3),Subject4 decimal(3),
+Subject5 decimal(3),
+Total decimal(3), Average decimal(10),
+Result1 varchar(10));
+
+4-
+Create table Subject_Average_Aggregate (
+Dept_id decimal (20),Dept_name varchar(30), 
+Subject1_Average decimal (10),
+Subject2_Average decimal (10),
+Subject3_Average decimal (10),
+Subject4_Average decimal (10),
+Subject5_Average decimal (10));
+
+5-
+Create table Subject_Pass_Percent_Aggregate(
+Dept_ID decimal(20), Dept_Name(20),
+Subject1_Pass_Percentage decimal(10),
+Subject2_Pass_Percentage decimal(10),
+Subject3_Pass_Percentage decimal(10),
+Subject4_Pass_Percentage decimal(10),
+Subject5_Pass_Percentage decimal(10));

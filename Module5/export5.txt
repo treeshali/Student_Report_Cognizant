@@ -1,0 +1,24 @@
+DEPT_ID	DEPT_NAME	SUBJECT1_PASS_PERCENTAGE	SUBJECT2_PASS_PERCENTAGE	SUBJECT3_PASS_PERCENTAGE	SUBJECT4_PASS_PERCENTAGE	SUBJECT5_PASS_PERCENTAGE
+D1	B.E. Aeronautical Engineering	100	0	100	100	100
+D10	B.Tech. Fashion Technology	100	100	100	50	50
+D11	B.Tech. Information Technology	100	100	100	100	0
+D12	B.Tech. Textile Technology	100	0	100	100	100
+D13	M.E. Applied Electronics	100	100	100	100	0
+D14	M.E. CAD/CAM Engineering	100	100	100	100	100
+D15	M.E. Communication Systems	100	50	100	50	100
+D16	M.E. Computer Science and Engineering	100	100	100	100	50
+D17	M.E. Energy Engineering	100	100	100	100	100
+D18	M.E. Industrial Engineering	100	50	100	50	100
+D19	M.E. Power Electronics and Drives	100	100	100	50	100
+D2	B.E. Civil Engineering	100	67	100	67	100
+D20	M.E. Structural Engineering	100	100	100	100	100
+D21	M.Tech. Apparel Technology & Management	100	100	100	100	100
+D22	M.Tech. Bio-Technology	0	50	100	100	100
+D23	M.Tech. Textile Technology	100	100	100	75	75
+D3	B.E. Computer Science and Engineering	100	100	100	75	75
+D4	B.E. Electrical and Electronics Engineering	100	100	100	67	100
+D5	B.E. Electronics and Communication Engineering	100	100	100	50	75
+D6	B.E. Electronics and Instrumentation Engineering	100	50	100	100	100
+D7	B.E. Mechanical Engineering	100	67	100	100	100
+D8	B.E. Mechatronics Engineering	100	100	100	67	100
+D9	B.Tech. Bio Technology	100	100	100	100	0
